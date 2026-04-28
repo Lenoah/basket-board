@@ -1,7 +1,7 @@
 body {
   margin: 0;
   text-align: center;
-  background-color: #1b234a;
+  background-color: #1b244a;
 }
 
 .container {
