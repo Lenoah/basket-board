@@ -11,7 +11,7 @@ body {
 
 .board1 {
   color: #e06d82;
-  background-color: #0800012;
+  background-color: #080001;
   width: 155px;
   height: 120px;
   margin-top: 45px;
@@ -25,7 +25,7 @@ body {
 
 .board2 {
   color: #f94f6d;
-  background-color: #0800012;
+  background-color: #080001;
   width: 155px;
   height: 120px;
   margin-top: 45px;
