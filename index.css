@@ -1,88 +1,88 @@
 body {
-    margin: 0;
-    text-align: center;
-    background-color: #1B244A;
+  margin: 0;
+  text-align: center;
+  background-color: #1b244a;
 }
 
 .container {
-    display: flex;
-    justify-content: space-around;
+  display: flex;
+  justify-content: space-around;
 }
 
 .board1 {
-    color: #F94F6D;
-    background-color: #080001;
-    width: 155px;
-    height: 120px;
-    margin-top: 45px;
-    margin-left: 82px;
-    border-radius: 5px;
-    padding: 12px 19px;
-    font-family: 'Cursed Timer ULiL', sans-serif;
-    font-weight: 400px;
-    font-size: 90px;                                          
+  color: #e06d82;
+  background-color: #080001;
+  width: 155px;
+  height: 120px;
+  margin-top: 45px;
+  margin-left: 82px;
+  border-radius: 5px;
+  padding: 12px 19px;
+  font-family: "Cursed Timer ULiL", sans-serif;
+  font-weight: 400px;
+  font-size: 90px;
 }
 
 .board2 {
-    color: #F94F6D;
-    background-color: #080001;
-    width: 155px;
-    height: 120px;
-    margin-top: 45px;
-    margin-left: 200px;
-    margin-right: 83px;
-    border-radius: 5px;
-    padding: 12px 19px;
-    font-family: 'Cursed Timer ULiL', sans-serif;
-    font-weight: 400px;
-    font-size: 90px;
+  color: #f94f6d;
+  background-color: #080001;
+  width: 155px;
+  height: 120px;
+  margin-top: 45px;
+  margin-left: 200px;
+  margin-right: 83px;
+  border-radius: 5px;
+  padding: 12px 19px;
+  font-family: "Cursed Timer ULiL", sans-serif;
+  font-weight: 400px;
+  font-size: 90px;
 }
 
 .name1 {
-    margin-top: 68px;
-    margin-left: 85px;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-weight: bold;
-    font-size: 40px;
-    color: #EEEEEE;
+  margin-top: 68px;
+  margin-left: 85px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bold;
+  font-size: 40px;
+  color: #eeeeee;
 }
 
 .name2 {
-    margin-top: 68px;
-    margin-left: 200px; 
-    margin-right: 83px;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-weight: bold;
-    font-size: 40px;
-    color: #EEEEEE;
+  margin-top: 68px;
+  margin-left: 200px;
+  margin-right: 83px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bold;
+  font-size: 40px;
+  color: #eeeeee;
 }
 
-button{
-    width: 45px;
-    height: 45px;
-    margin-left: 10px;
-    color: #9AABD8;
-    border: 2px solid #9AABD8;
-    background-color: #1B244A;
-    border-radius: 5px;
+button {
+  width: 45px;
+  height: 45px;
+  margin-left: 10px;
+  color: #9aabd8;
+  border: 2px solid #a0b2e2;
+  background-color: #1b244a;
+  border-radius: 5px;
 }
 
-.btn1{
+.btn1 {
   margin-top: 45px;
-  margin-left: 82px;  
+  margin-left: 82px;
 }
 
-.btn2{
-    margin-top: 45px;
-    margin-left: 200px;
-    margin-right: 83px;
+.btn2 {
+  margin-top: 45px;
+  margin-left: 200px;
+  margin-right: 83px;
 }
 
 .reset {
-    width: 1px;
-    margin-left: 200px;
-    margin-top: 350px;
-    margin-right: none;
+  width: 1px;
+  margin-left: 200px;
+  margin-top: 350px;
+  margin-right: none;
 }
 
 /* .board {
